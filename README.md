@@ -1,4 +1,4 @@
-# Solarwind-Lab
+# high-redshift-galaxy
 
-Solarwind-Lab
+High Redshift Galaxy
 
