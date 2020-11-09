@@ -1,4 +1,4 @@
 # high-redshift-galaxy
 
-High Redshift Galaxy
+High Redshift Galaxy.
 
